@@ -1,0 +1,114 @@
+# Uzbek translations for PROJECT.
+# Copyright (C) 2025 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2025-03-07 17:06+0500\n"
+"PO-Revision-Date: 2025-03-07 16:54+0500\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: uz\n"
+"Language-Team: uz <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.17.0\n"
+
+#: bot/handler/food_handler.py:15
+msgid "🥗 Cezar Salad"
+msgstr "🥗 Sezar Salat"
+
+#: bot/handler/food_handler.py:15
+msgid "🥗 Olivie Salad"
+msgstr "🥗 Olivye Salat"
+
+#: bot/handler/food_handler.py:15 bot/handler/food_handler.py:23
+#: bot/handler/food_handler.py:31 bot/handler/mainhandler.py:67
+#: bot/handler/mainhandler.py:74
+msgid "⬅️ Back (Main Menu)"
+msgstr "⬅️ Ortga (Asosiy menyu qaytish)"
+
+#: bot/handler/food_handler.py:18 bot/handler/food_handler.py:26
+#: bot/handler/food_handler.py:34
+msgid "🥗 Welcome to Salads Menu"
+msgstr "🥗 Salatlar menyusi"
+
+#: bot/handler/food_handler.py:23
+msgid "🍔 Burger"
+msgstr "🍔 Burger"
+
+#: bot/handler/food_handler.py:23
+msgid "🌭 Hot-Dog"
+msgstr "🌭 Hot-Dog"
+
+#: bot/handler/food_handler.py:31
+msgid "🍚 Pilov"
+msgstr "🍚 Osh"
+
+#: bot/handler/food_handler.py:31
+msgid "🍜 Soup"
+msgstr "🍜 Shorva"
+
+#: bot/handler/mainhandler.py:36 bot/handler/mainhandler.py:57
+msgid "🍽 Restaurant Menu"
+msgstr "🍽 Restaurant Menyusi"
+
+#: bot/handler/mainhandler.py:36 bot/handler/mainhandler.py:57
+msgid "📞 Connect with us"
+msgstr "📞 Biz bilan bog'lanish"
+
+#: bot/handler/mainhandler.py:36 bot/handler/mainhandler.py:57
+msgid "🇺🇿🇬🇧 Languages"
+msgstr "🇺🇿🇬🇧 Tillar"
+
+#: bot/handler/mainhandler.py:38
+msgid "🏠 Main Menu"
+msgstr "🏠Asosiy Menyu"
+
+#: bot/handler/mainhandler.py:42
+msgid "🇺🇿 Uzbek"
+msgstr "🇺🇿 O'zbekcha"
+
+#: bot/handler/mainhandler.py:42
+msgid "🇬🇧 English"
+msgstr "🇬🇧 Englishcha"
+
+#: bot/handler/mainhandler.py:42
+#, fuzzy
+msgid "⬅️ Back (Back to main menu)"
+msgstr "⬅️ Ortga (Asosiy menyu qaytish)"
+
+#: bot/handler/mainhandler.py:45
+#, fuzzy
+msgid "Choose Language"
+msgstr "🇺🇿🇬🇧 Tillarni tanlang"
+
+#: bot/handler/mainhandler.py:59
+#, fuzzy
+msgid "🏠 Main menu"
+msgstr "🏠Asosiy Menyu"
+
+#: bot/handler/mainhandler.py:67
+msgid "🥗 Salads"
+msgstr "🥗 Salatlar"
+
+#: bot/handler/mainhandler.py:67
+msgid "🍕 Fastfood"
+msgstr "🍕 Fastfood"
+
+#: bot/handler/mainhandler.py:67
+msgid "🥣 Hot Meals"
+msgstr "🥣 Issiq ovqatlar"
+
+#: bot/handler/mainhandler.py:74
+msgid "📞 +998936160099"
+msgstr "📞 +998936160099"
+
+#: bot/handler/mainhandler.py:77
+msgid "If you have problem call shown number"
+msgstr "Seryozniy masala bo'la pastdagi nomerga tel qilaverasiz"
+

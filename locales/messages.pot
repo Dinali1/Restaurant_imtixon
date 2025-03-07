@@ -1,0 +1,110 @@
+# Translations template for PROJECT.
+# Copyright (C) 2025 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2025.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2025-03-07 17:06+0500\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.17.0\n"
+
+#: bot/handler/food_handler.py:15
+msgid "🥗 Cezar Salad"
+msgstr ""
+
+#: bot/handler/food_handler.py:15
+msgid "🥗 Olivie Salad"
+msgstr ""
+
+#: bot/handler/food_handler.py:15 bot/handler/food_handler.py:23
+#: bot/handler/food_handler.py:31 bot/handler/mainhandler.py:67
+#: bot/handler/mainhandler.py:74
+msgid "⬅️ Back (Main Menu)"
+msgstr ""
+
+#: bot/handler/food_handler.py:18 bot/handler/food_handler.py:26
+#: bot/handler/food_handler.py:34
+msgid "🥗 Welcome to Salads Menu"
+msgstr ""
+
+#: bot/handler/food_handler.py:23
+msgid "🍔 Burger"
+msgstr ""
+
+#: bot/handler/food_handler.py:23
+msgid "🌭 Hot-Dog"
+msgstr ""
+
+#: bot/handler/food_handler.py:31
+msgid "🍚 Pilov"
+msgstr ""
+
+#: bot/handler/food_handler.py:31
+msgid "🍜 Soup"
+msgstr ""
+
+#: bot/handler/mainhandler.py:36 bot/handler/mainhandler.py:57
+msgid "🍽 Restaurant Menu"
+msgstr ""
+
+#: bot/handler/mainhandler.py:36 bot/handler/mainhandler.py:57
+msgid "📞 Connect with us"
+msgstr ""
+
+#: bot/handler/mainhandler.py:36 bot/handler/mainhandler.py:57
+msgid "🇺🇿🇬🇧 Languages"
+msgstr ""
+
+#: bot/handler/mainhandler.py:38
+msgid "🏠 Main Menu"
+msgstr ""
+
+#: bot/handler/mainhandler.py:42
+msgid "🇺🇿 Uzbek"
+msgstr ""
+
+#: bot/handler/mainhandler.py:42
+msgid "🇬🇧 English"
+msgstr ""
+
+#: bot/handler/mainhandler.py:42
+msgid "⬅️ Back (Back to main menu)"
+msgstr ""
+
+#: bot/handler/mainhandler.py:45
+msgid "Choose Language"
+msgstr ""
+
+#: bot/handler/mainhandler.py:59
+msgid "🏠 Main menu"
+msgstr ""
+
+#: bot/handler/mainhandler.py:67
+msgid "🥗 Salads"
+msgstr ""
+
+#: bot/handler/mainhandler.py:67
+msgid "🍕 Fastfood"
+msgstr ""
+
+#: bot/handler/mainhandler.py:67
+msgid "🥣 Hot Meals"
+msgstr ""
+
+#: bot/handler/mainhandler.py:74
+msgid "📞 +998936160099"
+msgstr ""
+
+#: bot/handler/mainhandler.py:77
+msgid "If you have problem call shown number"
+msgstr ""
+
