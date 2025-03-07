@@ -1,0 +1,35 @@
+
+services:
+  userbot:
+    build: .
+    image: exam-image
+    container_name: exam_get-con
+    restart: always
+    command: "sh -c 'python3 main.py'"
+    depends_on:
+         - pg
+         - redis
+  ports:
+    "8000:8080"
+  restart: always
+  pg:
+    image: postgres:alpine
+    container_name: pg
+    environment:
+    - POSTGRES_USER = postgres
+     - POSTGRES_PASSWORD = 99
+     - POSTGRES_DB = restaurant_db
+    ports:
+     - "5432:5432"
+    volumes:
+       - pg_data: / var / lib / postgresql
+    restart: always
+
+  redis:
+     image: redis:alpine
+     container_name: redis
+     ports:
+     - "6379:6379"
+     restart: always
+
+
